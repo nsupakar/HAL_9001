@@ -1,4 +1,4 @@
-# ML_101
+# HAL_9001
 This serves as a public repo of all the materials I am using to learn Machine Learning during the lockdown and beyond.
 
 I am using Python along with Pandas, Numpy and other related libraries for the course. 
